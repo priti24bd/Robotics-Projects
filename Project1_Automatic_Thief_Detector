@@ -1,1 +1,22 @@
+# ThiefGuard – Automatic Thief Detector
+
+## Description
+**ThiefGuard** is an AI-powered home security system designed to detect unauthorized entry and alert homeowners instantly. Using motion sensors and a camera, it captures images of intruders and sends notifications to the user, helping prevent theft and secure homes.  
+
+## Technologies Used
+- Arduino UNO  
+- Raspberry Pi  
+- Python (OpenCV)  
+- PIR Motion Sensor  
+
+## Key Features
+- Real-time motion detection  
+- Image capture of intruders  
+- Instant notifications via mobile device  
+- Easy-to-install and cost-effective  
+
+## My Role
+Designed the hardware setup, implemented the Python code for detection and alerts, and tested the full system for reliability.  
+
+
 
