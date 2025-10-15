@@ -1,0 +1,19 @@
+# Spin Energy – Renewable Energy Robot
+
+## Description
+**Spin Energy** is a small-scale robotics project that generates energy using wind or rotational motion. It teaches renewable energy principles and sustainability.
+
+## Technologies Used
+- Arduino UNO  
+- DC Motors  
+- Energy Sensors  
+- Python  
+
+## Key Features
+- Converts motion to electricity  
+- Educational and experimental  
+- Supports sustainable energy learning  
+
+## My Role
+Built prototype, implemented energy measurement system, and conducted experiments.
+
