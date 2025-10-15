@@ -1,0 +1,19 @@
+# LightWake – Smart Wake-Up Robot
+
+## Description
+**LightWake** is a smart alarm robot that wakes users gently using gradual light and sound. It helps improve sleep cycles and morning productivity by simulating natural sunlight and personalized alarms.
+
+## Technologies Used
+- Arduino UNO  
+- Raspberry Pi  
+- LED Light Strips  
+- Python  
+
+## Key Features
+- Gradual light-based alarm  
+- Customizable sound alerts  
+- Sleep cycle tracking  
+
+## My Role
+Designed the hardware setup, programmed light and sound control, and tested alarm sequences.
+
