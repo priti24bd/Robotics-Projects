@@ -1,0 +1,19 @@
+# AutoRise – Smart Plant Watering Robot
+
+## Description
+**AutoRise** is a robot designed to water plants automatically based on soil moisture levels. It ensures healthy plant growth while saving time and water.
+
+## Technologies Used
+- Arduino UNO  
+- Soil Moisture Sensors  
+- Water Pump  
+- Python  
+
+## Key Features
+- Automatic plant watering  
+- Soil moisture monitoring  
+- Time-saving and efficient  
+
+## My Role
+Integrated sensors with pumps, programmed watering automation, and tested the system.
+
