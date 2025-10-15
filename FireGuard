@@ -1,0 +1,19 @@
+# FireGuard – Fire Detection Robot
+
+## Description
+**FireGuard** is an autonomous robot that detects fire or smoke in homes or offices. It alerts users immediately, helping prevent fire damage and protect lives.
+
+## Technologies Used
+- Arduino UNO  
+- Smoke & Temperature Sensors  
+- Raspberry Pi  
+- Python  
+
+## Key Features
+- Early fire detection  
+- Real-time notifications  
+- Portable and easy-to-deploy  
+
+## My Role
+Built the hardware, implemented sensor detection logic, and tested alert system.
+
