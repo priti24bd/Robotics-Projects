@@ -1,0 +1,19 @@
+# EcoGlow – Energy-Efficient Lighting Robot
+
+## Description
+**EcoGlow** is a robotics project designed to optimize home lighting using sensors. It automatically adjusts brightness based on ambient light, saving energy and promoting sustainability.
+
+## Technologies Used
+- Arduino UNO  
+- Light Sensors  
+- Relay Modules  
+- Python  
+
+## Key Features
+- Automatic brightness adjustment  
+- Energy consumption monitoring  
+- Eco-friendly design  
+
+## My Role
+Designed sensor-based automation and implemented energy monitoring system.
+
