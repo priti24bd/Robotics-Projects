@@ -1,0 +1,18 @@
+# RoboDrive – Autonomous Driving Robot
+
+## Description
+**RoboDrive** is a small autonomous robot capable of navigating paths and avoiding obstacles. It demonstrates principles of robotics and AI-based navigation.
+
+## Technologies Used
+- Arduino UNO  
+- Ultrasonic Sensors  
+- Motor Driver Modules  
+- Python  
+
+## Key Features
+- Autonomous path navigation  
+- Obstacle avoidance  
+- Remote monitoring  
+
+## My Role
+Built hardware, implemented navigation algorithms, and tested autonomous movement.
