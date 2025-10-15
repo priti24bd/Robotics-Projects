@@ -1,0 +1,19 @@
+# EcoFill System – Automated Water Conservation Robot
+
+## Description
+**EcoFill System** monitors water usage and automates water filling to reduce waste. It ensures efficient water management for households and gardens.
+
+## Technologies Used
+- Arduino UNO  
+- Water Level Sensors  
+- Relay Modules  
+- Python  
+
+## Key Features
+- Automated water filling  
+- Waste reduction  
+- Easy integration with tanks and taps  
+
+## My Role
+Designed automation logic, installed sensors, and tested water level management.
+
