@@ -1,0 +1,19 @@
+# MotionGuard – Motion Detection Robot
+
+## Description
+**MotionGuard** is a security robot that detects motion in designated areas and alerts users. It enhances home or office safety with a smart, automated monitoring system.
+
+## Technologies Used
+- Arduino UNO  
+- PIR Motion Sensors  
+- Raspberry Pi  
+- Python  
+
+## Key Features
+- Real-time motion detection  
+- Alert notifications  
+- Portable security system  
+
+## My Role
+Integrated sensors, programmed detection and alert logic, and conducted system testing.
+
